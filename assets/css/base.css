@@ -1,0 +1,16 @@
+:root{
+   /* font */
+   --font-circular-std: "Circular Std";
+   --font-dm-sans: "DM Sans";
+   --font-poppins: 'Poppins', sans-serif;
+   /* Colors */
+  --light-text-link-color-white: #fff;
+  --color-gray-100: #fdfdff;
+  --black: #292525;
+  --color-black: #000;
+  --dark: #60e1cb;
+  --secondary: #7bc0e3;
+  --color-steelblue-100: #478cb0;
+  --color-steelblue-200: rgba(71, 140, 176, 0.09);
+  --color-azure: #e9fbf8;
+}
